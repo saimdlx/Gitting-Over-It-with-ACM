@@ -2,7 +2,7 @@
 
 If you're here, you should be working to create a branch the following added:
 
-Name: Saim Ahmed
-Major: Computer Science
-From 1-10, how would you rate your experience with GitHub: 8
-Write a joke here (make it funny): two guys walked into a bar
+Name: 
+Major: 
+From 1-10, how would you rate your experience with GitHub: 
+Write a joke here (make it funny): 
